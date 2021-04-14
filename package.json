@@ -1,0 +1,21 @@
+{
+  "name": "discord-anti-deco",
+  "version": "1.0.0",
+  "description": "Prevent malicious user to voice disconnect all members of your server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "antideco",
+    "discord-anti-deco",
+    "antiraid",
+    "discord-antiraid",
+    "anti-voice-deco"
+  ],
+  "author": "TakeFy",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
